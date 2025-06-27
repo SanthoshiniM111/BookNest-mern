@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Build folders (if you build server with Babel or TypeScript)
+dist/
+build/
+
+# Coverage reports
+coverage/
+
+# Optional: IDE/editor settings
+.vscode/
+.idea/
+
+# Optional: PM2 process logs
+pids/
+*.pid
+*.seed
+*.pid.lock
